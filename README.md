@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Barney Akenzua-Sanderson
 - 👀 I’m interested in critical care, statistics, guitars, ARDS and ECMO
 - 🧑‍⚕️ I work as a research nurse at [Guys & St Thomas' NHS Foundation Trust](https://www.guysandstthomas.nhs.uk/)
-- 🌱 I’m currently studying for a MSc Medical Statistics at LSHTM
+- 🌱 I’m currently studying for a MSc Medical Statistics at [LSHTM](https://www.lshtm.ac.uk/)
 - 💞️ I’m looking to collaborate on critical care research/data projects
 - 📫 You can reach me via [barnaby.sanderson@gstt.nhs.uk](mailto:barnaby.sanderson@gstt.nhs.uk?subject=[GitHub]%20)
