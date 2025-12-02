@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Barney Akenzua-Sanderson
 - 👀 I’m interested in critical care, statistics, guitars, [ARDS](https://en.wikipedia.org/wiki/Acute_respiratory_distress_syndrome) and [ECMO](https://en.wikipedia.org/wiki/Extracorporeal_membrane_oxygenation)
-- 🧑‍⚕️ I work as a research nurse and medical statistician, within the critical care research team, at [Guys & St Thomas' NHS Foundation Trust](https://www.guysandstthomas.nhs.uk/)
+- 🧑‍⚕️ I work within the critical care research team at [Guys & St Thomas' NHS Foundation Trust](https://www.guysandstthomas.nhs.uk/), as a research nurse and medical statistician.
 - 💞️ I’m looking to collaborate on critical care research/data projects
 - 📫 You can reach me via [barnaby.sanderson1@nhs.net](mailto:barnaby.sanderson1@nhs.net?subject=[GitHub]%20) or [@vurtuali@fosstodon.org](https://fosstodon.org/@vurtuali)
